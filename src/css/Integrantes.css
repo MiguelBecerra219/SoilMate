@@ -1,0 +1,34 @@
+.Contenedor-integrante{
+    display: flex;
+    flex-direction: row;
+    width: 10 vw;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 400px;
+    margin: 80px;
+    height: 100px;
+}
+
+.Contenedor-integrante .contenedor-foto{
+    padding-right: 15px;
+}
+
+.Contenedor-integrante .contenedor-foto .foto-integrante{
+    width: 100px;
+    height: 150px;
+}
+
+.Contenedor-integrante .contenedor-nombre-rol{
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 12px;
+    color: white;
+}
+
+.Contenedor-integrante .contenedor-nombre p{
+    font-size: 80%;
+    color: #2c490d;
+}

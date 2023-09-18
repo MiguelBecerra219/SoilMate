@@ -1,0 +1,75 @@
+.articulo-new-Lirio{
+    height: 50vh;
+    width: 100vw;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url("../media/Foto-artículo-Lirios.png");
+    border-bottom: solid 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.articulo-new-Fresas{
+    height: 50vh;
+    width: 100vw;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url("../media/Foto-artículo-cultivo-de-flores.jpg");
+    border-bottom: solid 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedor-informacion{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contenedor-informacion .contenedor-texto{
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.contenedor-informacion .contenedor-boton{
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor-informacion .contenedor-texto .nombre-articulo{
+    color: whitesmoke;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.contenedor-informacion .contenedor-texto .nombre-cientifico-articulo{
+    color: whitesmoke;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.contenedor-informacion .contenedor-boton button{
+    background-color: #538b17;
+    color: whitesmoke;
+}
+
+.contenedor-informacion .contenedor-boton button:hover{
+    background-color: #2c490d;
+}

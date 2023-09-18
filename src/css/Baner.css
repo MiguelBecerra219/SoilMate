@@ -1,0 +1,70 @@
+.contenedor-principal{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url("../media/planta.png");
+    border-bottom: solid 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.contenedor-baner{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 0px 24px;
+}
+
+.contenedor-baner .contenedor-titulo{
+    padding-bottom: 35px;
+    width: 70%;
+}
+.contenedor-baner .contenedor-titulo h1{
+    font-size: 70px;
+    font-weight: 400;
+    color: azure;
+}
+
+.contenedor-baner .contenedor-parrafo{
+    padding-bottom: 50px;
+    width: 100%;
+    width: 80%;
+}
+
+.contenedor-baner .contenedor-parrafo p{
+    font-size: 25px;
+    font-weight: 400;
+    color: azure;
+}
+
+
+.contenedor-baner .contenedor-boton{
+    width: 100%;
+}
+
+.contenedor-baner .contenedor-boton button{
+    border: 1px solid black;
+    border-radius: 99em;
+    padding: 8px 20px;
+    line-height: 24px;
+    background-color: rgba(25, 25, 25, 1);
+    color: white;
+    font-size: 20px;
+    width: 213px;
+    cursor: pointer;
+}
+
+
+@media(min-width: 1200px){
+    .contenedor-principal{
+        padding-left: 8vw;
+        padding-right: 8vw;
+    }
+}
