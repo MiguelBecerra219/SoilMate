@@ -11,7 +11,7 @@ import ArticuloFresas from './routes/ArticuloFresas';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/SoilMate/",
     element: <Home />,
   },{
     path: "/ArticuloLirio",
