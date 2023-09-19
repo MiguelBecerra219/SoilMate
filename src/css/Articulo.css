@@ -1,5 +1,5 @@
 .articulo-new-Lirio{
-    height: 50vh;
+    height: 60vh;
     width: 100vw;
     background-image: linear-gradient(
         0deg,
@@ -17,7 +17,7 @@
 }
 
 .articulo-new-Fresas{
-    height: 50vh;
+    height: 60vh;
     width: 100vw;
     background-image: linear-gradient(
         0deg,
@@ -35,6 +35,7 @@
 }
 
 .contenedor-informacion{
+    color: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -67,7 +68,12 @@
 
 .contenedor-informacion .contenedor-boton button{
     background-color: #538b17;
-    color: whitesmoke;
+    border: 1px black solid;
+    color: white;
+}
+
+.contenedor-informacion .contenedor-boton .Link{
+    color: white;
 }
 
 .contenedor-informacion .contenedor-boton button:hover{

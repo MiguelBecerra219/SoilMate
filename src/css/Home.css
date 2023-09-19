@@ -20,6 +20,37 @@
     z-index: 10;
 }
 
+.header .contenedor-logos{
+    display: flex;
+    flex-direction: row;
+}
+
+.header .contenedor-logo{
+    background-image: url("../media/SoilMate-logo.png");
+    border-bottom: solid 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    padding-right: 10px;
+}
+
+.header .contenedor-logo2{
+    background-image: url("../media/SoilMate-name.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 140px;
+    height: 40px;
+}
+
 .header .contenedor-logo .header-logo{
     width: 45px;
 }

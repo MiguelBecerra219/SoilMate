@@ -13,6 +13,66 @@
     padding-right: 15px;
 }
 
+.Contenedor-integrante .contenedor-foto-1{
+    background-image: url("../media/Foto_Ruby.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 200px;
+}
+
+.Contenedor-integrante .contenedor-foto-2{
+    background-image: url("../media/Foto_Zharick.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 200px;
+}
+
+.Contenedor-integrante .contenedor-foto-3{
+    background-image: url("../media/Foto_Leidy.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 200px;
+}
+
+.Contenedor-integrante .contenedor-foto-4{
+    background-image: url("../media/Foto_Mariana.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 200px;
+}
+
+.Contenedor-integrante .contenedor-foto-5{
+    background-image: url("../media/Foto_Gabriela.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 200px;
+}
+
 .Contenedor-integrante .contenedor-foto .foto-integrante{
     width: 100px;
     height: 150px;
