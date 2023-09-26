@@ -97,7 +97,7 @@ Contenedor-principal-app{
     flex-direction: column;
 }
 
-@media(min-width: 350px){
+@media(max-width: 400px){
     .header .contenedor-logo{
         background-image: url("../media/SoilMate-logo.png");
         border-bottom: solid 1px black;
