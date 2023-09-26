@@ -5,16 +5,7 @@
     padding: 24px;
     display: flex;
     justify-content: center;
-    background-image: linear-gradient(
-        0deg,
-        rgba(0,0,0,0.5),
-        rgba(0,0,0,0.5)
-    )
-    ,url("../media/fondo-integrantes-2.jpg");
-    border-bottom: solid 1px black;
-    background-repeat: no-repeat;
-    background-size: cover ;
-    background-position: center center;
+    background-color: #FEF5E7;
 }
 
 .Seccion-integrantes .Contenedor-integantes{
