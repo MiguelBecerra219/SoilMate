@@ -8,6 +8,7 @@ import {
 import Home from "./routes/Home.jsx"
 import ArticuloLirio from './routes/ArticuloLirio';
 import ArticuloFresas from './routes/ArticuloFresas';
+import ApartadoIntegrantes from './routes/ApartadoIntegrantes';
 
 const router = createBrowserRouter([
   {
@@ -19,6 +20,9 @@ const router = createBrowserRouter([
   },{
     path: "/ArticuloFresas",
     element: <ArticuloFresas />
+  },{
+    path: "/Integrantes",
+    element: <ApartadoIntegrantes />
   }
 ]);
 

@@ -1,7 +1,6 @@
 import '../css/Home.css'
 import { Barra } from '../componentes/Nav'
 import { Baner } from '../componentes/baner'
-import { SeccionIntegrante } from '../componentes/SeccionIntegrantes'
 import { Articulo } from '../componentes/Articulo'
 
 export default function Home(){
@@ -11,7 +10,6 @@ export default function Home(){
        <Barra />
         <Baner />
       </div>
-      <SeccionIntegrante />
       <Articulo nombre='Lirio' nombreCientifico='Iris germanica'/>
       <Articulo nombre='Fresas' nombreCientifico='Fragaria x ananassa'/>
     </>
