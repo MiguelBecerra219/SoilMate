@@ -26,7 +26,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 50vw;
+    width: 70vw;
     height: 60vh;
 }
 
@@ -39,10 +39,22 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 50vw;
+    width: 70vw;
     height: 60vh;
 }
 
+.articulo .contenedor-imagen-Durazno{
+    background-image: url("../media/Foto-artículo-cultivo-de-Durzno.jpg");
+    border-bottom: solid 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70vw;
+    height: 60vh;
+}
 .articulo .contenedor-imagen img{
     max-width: 50vw;
 }

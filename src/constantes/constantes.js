@@ -118,7 +118,7 @@ export const articuloFresas = {
 
     export const articuloDurazno = {
         nuemro:'3',
-        nombre: 'DURAZNO', 
+        nombre: 'Durazno', 
         nombreCientifico:'Prunus persica', 
         contenido:`Su nombre se deriva del latín duracinus
         Nombre común: el melocotón, durazno, nectarina, manzana algodonosa
@@ -159,4 +159,4 @@ export const articuloFresas = {
        http://repiica.iica.int/docs/B0220e/B0220e.pdf
        https://agrotendencia.tv/agropedia/cultivos/frutales/el-cultivo-del-durazno/
        https://alimentosargentinos.magyp.gob.ar/contenido/valorAr/organicos/links/frutihorticolas/Manejo%20de%20plagas%20y%20enfermedades%20durazno%20ciruela%20cereza%20-%20Gutierrez.pdf`,
-        imagen:'Foto-artículo-cultivo-de-flores.jpg'}
+       imagen:'Foto-artículo-cultivo-de-Durzno.jpg'}
