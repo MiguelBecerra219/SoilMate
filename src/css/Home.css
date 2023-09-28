@@ -73,14 +73,27 @@
     color: #83cf2d;
 }
 
-.contenedor-boton-header{
-    padding-left: 20px;
+.header .contenedor-links .contenedor-boton-header{
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: black;
 }
+
+.header .contenedor-links .contenedor-boton-header .link-sobre-nosotros{
+    color: white;
+    padding: 10px;
+}
+
+.header .contenedor-links .contenedor-boton-header .link-sobre-nosotros:hover{
+    color: #83cf2d;
+}
+
+
 
 @media(min-width: 100px){
     .header .contenedor-logo{
-        width: 20px;
-        height: 20px;
+        width: 30px;
+        height: 30px;
     }
 
     .header .contenedor-logo2{
