@@ -5,7 +5,7 @@
 
 .Seccion-baner-soilmate .Contenedor-imagen-baner{
     width: 100vw;
-    height: 100vh;
+    height: 60vh;
     background-image: url("../media/soilmatePresentacion.png");
     border-bottom: solid 1px black;
     background-repeat: no-repeat;
@@ -28,4 +28,24 @@
 
 .Seccion-baner-soilmate .Contenedor-imagen-baner .contenedor-boton:hover{
     background-color: #31520e;
+}
+
+@media(min-width: 100px){
+    .Seccion-baner-soilmate{
+        height: 60vh;
+    }
+
+    .Seccion-baner-soilmate .Contenedor-imagen-baner{
+        height: 60vh;
+    }
+}
+
+@media(min-width: 600px){
+    .Seccion-baner-soilmate{
+        height: 100vh;
+    }
+
+    .Seccion-baner-soilmate .Contenedor-imagen-baner{
+        height: 100vh;
+    }
 }
