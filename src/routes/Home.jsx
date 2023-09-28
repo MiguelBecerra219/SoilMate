@@ -2,6 +2,7 @@ import '../css/Home.css'
 import { Barra } from '../componentes/Nav'
 import { Baner } from '../componentes/baner'
 import { Articulo } from '../componentes/Articulo'
+import { BanerSoilmate } from '../componentes/BanerSoilmate'
 
 export default function Home(){
   return(
@@ -10,6 +11,7 @@ export default function Home(){
        <Barra />
         <Baner />
       </div>
+      <BanerSoilmate />
       <Articulo nombre='Lirio' nombreCientifico='Iris germanica'/>
       <Articulo nombre='Fresas' nombreCientifico='Fragaria x ananassa'/>
     </>
