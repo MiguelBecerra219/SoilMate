@@ -114,3 +114,49 @@ export const articuloFresas = {
     https://www.infoagro.com/documentos/el_cultivo_fresa.asp
     https://ecuador.inaturalist.org/taxa/50299-Fragaria`,
     imagen:'Foto-artículo-cultivo-de-flores.jpg'}
+
+
+    export const articuloDurazno = {
+        nuemro:'3',
+        nombre: 'DURAZNO', 
+        nombreCientifico:'Prunus persica', 
+        contenido:`Su nombre se deriva del latín duracinus
+        Nombre común: el melocotón, durazno, nectarina, manzana algodonosa
+       Clase: 	 Dicotyledoneae 
+       Familia:  Rosacea
+       Subfamilia: Prunoideae
+       Género: Prunus 
+       Especie: persica
+       Orden: Rosales
+       Origen: El durazno es una fruta originaria de China.
+       
+       
+       CARACTERÍSTICAS:
+       El árbol es originario de la lejana China, donde su cultivo se practica desde hace miles de años.
+       Es un árbol de forma arbustiva, copa amplia y de pequeño tamaño, que crece hasta los 4-10 metros de altura, pero es muy raro que llegue a los 6.5 metros. El tronco es delgado, de corteza color gris con lenticelas (protuberancias) dispuestas de forma horizontal. Las hojas verde oscuro son alargadas, más anchas en medio y ligeramente dobladas hacia la nervadura central, con los bordes un poco aserrados. Las flores crecen en tallos cortos en brotes laterales de 2 o 3, aunque también pueden crecer solas.
+       Poseen 5 pétalos cuyo color varía del blanco al rosado, 5 sépalos, de 15 a 30 estambres, un pistilo y un estilo. El fruto del duraznero es una drupa que consiste en una sola semilla ovalada de 1.3-2 centímetros de longitud, rodeada por carne jugosa, dulce y ligeramente ácida, de color blanquecino o amarillo con tintes rojizos. La piel del fruto es delgada y exhibe una coloración anaranjada o amarilla, también rojiza. Su característica principal son los cortos pelillos que recubren la piel y que le confieren una textura aterciopelada al tacto.
+       Las condiciones necesarias para el cultivo del durazno son:
+       1. Clima: El durazno prefiere climas templados a cálidos. Necesita una cantidad adecuada de horas de frío durante el invierno (entre 600 y 1000 horas a temperaturas inferiores a 7°C) para una buena producción de frutas. Además, requiere una temporada de crecimiento libre de heladas.
+       2. Luz solar: El durazno necesita al menos 6 horas de luz solar directa al día para un crecimiento saludable y una buena producción de frutas. Ubicar los árboles en un lugar soleado es fundamental.
+       3. Suelo: El durazno crece mejor en suelos bien drenados y fértiles. Prefiere suelos ligeramente ácidos con un pH entre 6 y 7. Es importante evitar suelos con problemas de drenaje, ya que el exceso de humedad puede dañar las raíces.
+       4. Riego: El durazno requiere un riego regular para mantener el suelo húmedo pero no encharcado. Durante la etapa de crecimiento activo y la formación de frutas, es importante asegurarse de que el árbol reciba suficiente agua. Sin embargo, es esencial evitar el exceso de riego, ya que puede provocar enfermedades y pudrición de las raíces.
+       5. Espacio y ventilación: Los árboles de durazno necesitan un espacio adecuado para crecer y una buena ventilación. Se recomienda dejar al menos 4-6 metros de distancia entre los árboles para permitir un buen desarrollo y evitar problemas de competencia por nutrientes y luz.
+       6. Poda: La poda adecuada es esencial para el cultivo del durazno. Se realiza durante el invierno para eliminar ramas muertas, promover la formación de nuevos brotes y mantener un equilibrio adecuado entre el crecimiento vegetativo y la producción de frutas. La poda también ayuda a mejorar la circulación del aire y reducir el riesgo de enfermedades.
+       7. Polinización: Algunas variedades de durazno requieren polinización cruzada, lo que significa que necesitan la presencia de otra variedad de durazno cercana para producir frutas. Es importante seleccionar variedades compatibles y asegurarse de tener polinizadores adecuados en el área.
+       
+       PLAGAS Y ENFERMEDADES
+       1. Pulgones: Los pulgones son pequeños insectos que se alimentan de la savia de las hojas y brotes tiernos. Pueden debilitar el árbol y transmitir enfermedades.
+       2. Gusanos de la fruta: Los gusanos de la fruta, como la mosca de la fruta, pueden dañar los duraznos al alimentarse del interior de la fruta, lo que provoca su deterioro y caída prematura.
+       3. Araña roja: La araña roja es un ácaro que se alimenta de la savia de las hojas, causando un aspecto moteado y amarillento en el follaje. Puede debilitar el árbol si la infestación es severa.
+       4. Monilia: La monilia es una enfermedad fúngica que afecta a los duraznos y otras frutas de hueso. Causa la pudrición de flores, frutas y ramas, y puede propagarse rápidamente en condiciones de alta humedad.
+       5. Pudrición de raíz: La pudrición de raíz es causada por hongos del suelo y puede debilitar el sistema de raíces del durazno, afectando su crecimiento y producción.
+       6. Mildiu polvoso: El mildiu polvoso es una enfermedad fúngica que se caracteriza por un polvo blanco en las hojas y brotes. Puede afectar el crecimiento y la salud del árbol si no se controla.
+       7. Virus del mosaico: El virus del mosaico es una enfermedad viral que puede causar deformaciones en las hojas y reducir la producción de frutas.
+       Es importante realizar un monitoreo regular de los árboles de durazno y tomar medidas preventivas y de control cuando sea necesario. Esto puede incluir el uso de insecticidas y fungicidas adecuados, la eliminación de frutas y ramas infectadas, y la implementación de prácticas de manejo cultural, como la poda adecuada y el riego adecuado.
+       
+       Información sacada de: 
+       https://www.bioenciclopedia.com/duraznero-484.html
+       http://repiica.iica.int/docs/B0220e/B0220e.pdf
+       https://agrotendencia.tv/agropedia/cultivos/frutales/el-cultivo-del-durazno/
+       https://alimentosargentinos.magyp.gob.ar/contenido/valorAr/organicos/links/frutihorticolas/Manejo%20de%20plagas%20y%20enfermedades%20durazno%20ciruela%20cereza%20-%20Gutierrez.pdf`,
+        imagen:'Foto-artículo-cultivo-de-flores.jpg'}

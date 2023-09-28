@@ -39,14 +39,22 @@
     .Seccion-baner-soilmate .Contenedor-imagen-baner{
         height: 60vh;
     }
+
+    .Seccion-baner-soilmate .Contenedor-imagen-baner .contenedor-boton{
+        margin-bottom: 30px;
+    }
 }
 
-@media(min-width: 600px){
+@media(min-width: 920px){
     .Seccion-baner-soilmate{
         height: 100vh;
     }
 
     .Seccion-baner-soilmate .Contenedor-imagen-baner{
         height: 100vh;
+    }
+
+    .Seccion-baner-soilmate .Contenedor-imagen-baner{
+        background-size: cover;
     }
 }

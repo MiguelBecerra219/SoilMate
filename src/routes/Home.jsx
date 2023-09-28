@@ -14,6 +14,7 @@ export default function Home(){
       <BanerSoilmate />
       <Articulo nombre='Lirio' nombreCientifico='Iris germanica'/>
       <Articulo nombre='Fresas' nombreCientifico='Fragaria x ananassa'/>
+      <Articulo nombre='Durazno' nombreCientifico='Prunus persica'/>
     </>
   )
 }
