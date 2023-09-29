@@ -6,7 +6,7 @@ export function BanerSoilmate () {
         <section className="Seccion-baner-soilmate">
             <div className="Contenedor-imagen-baner">
                 <div className="contenedor-boton">
-                    <Link to={"/SoilMate/Sobre-el-proyecto"}>Conoce el proyecto</Link>
+                    <Link to={"/SoilMate/Sobre-el-proyecto"} className='link'>Conoce el proyecto</Link>
                 </div>
             </div>
         </section>

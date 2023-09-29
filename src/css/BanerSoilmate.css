@@ -31,6 +31,10 @@
     background-color: #31520e;
 }
 
+.Seccion-baner-soilmate .Contenedor-imagen-baner .contenedor-boton .link{
+    color: white;
+}
+
 @media(min-width: 100px){
     .Seccion-baner-soilmate{
         height: 60vh;
