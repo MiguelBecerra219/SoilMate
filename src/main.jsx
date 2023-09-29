@@ -16,16 +16,16 @@ const router = createBrowserRouter([
     path: "/SoilMate/",
     element: <Home />,
   },{
-    path: "/SoilMate/ArticuloLirio",
+    path: "/ArticuloLirio",
     element: <ArticuloLirio />
   },{
-    path: "/SoilMate/ArticuloFresas",
+    path: "/ArticuloFresas",
     element: <ArticuloFresas />
   },{
-    path: "/SoilMate/ArticuloDurazno",
+    path: "/ArticuloDurazno",
     element: <ArticuloDurazno />
   },{
-    path: "/SoilMate/Integrantes",
+    path: "/Integrantes",
     element: <ApartadoIntegrantes />
   }
 ]);
