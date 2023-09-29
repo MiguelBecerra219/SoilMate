@@ -160,3 +160,45 @@ export const articuloFresas = {
        https://agrotendencia.tv/agropedia/cultivos/frutales/el-cultivo-del-durazno/
        https://alimentosargentinos.magyp.gob.ar/contenido/valorAr/organicos/links/frutihorticolas/Manejo%20de%20plagas%20y%20enfermedades%20durazno%20ciruela%20cereza%20-%20Gutierrez.pdf`,
        imagen:'Foto-artículo-cultivo-de-Durzno.jpg'}
+
+
+
+       export const articuloSoilMate = {
+        nuemro:'4',
+        nombre: 'SoilMate', 
+        nombreCientifico:'Descripción del proyecto', 
+        contenido:`Nuestro proyecto consiste en un dispositivo capaz de medir la humedad de ésta, gracias a un sensor que se inserta en la tierra, y la cantidad de luz que recibe.
+        Lo que compone nuestro proyecto es:
+       Está programado con la ayuda de la herramienta de Makecode ya que nos permitió desarrollar el proyecto de manera efectiva y con facilidad.
+        Un sensor de humedad de la tierra para medir el contenido de humedad en el suelo para determinar si es necesario regar o no.
+       Un sensor de luz solar que mide la intensidad de luz solar que es importante para el proceso de la fotosíntesis de las plantas.
+       Una micro bit que muestra visualmente la humedad de la tierra y el nivel de la temperatura donde se encienden o parpadean los LED mostrando gráficamente el nivel de humedad de la tierra y la luz solar. 
+       Nuestro proyecto ayuda a los agricultores o personas que se dedican a éste campo, busca apoyar a las personas sin experiencia que quieren empezar a cultivar. Además incluye un programa que brinda apoyo y recomendaciones para tratar el suelo y sembrar en él.
+       
+       ¿Cuál es el problema de investigación?
+       No se sabe con seguridad si la tierra es adecuada para el cultivo, lo que dificulta el proceso y si no se tiene precaución, las plantas o los alimentos no tendrán un buen crecimiento y carecerán de nutrientes. Muchas veces el mayor problema de cultivar es empezar pues no se sabe el estado de la tierra y en el proceso de crecimiento de la planta es necesario comprobar la humedad y la cantidad de luz que recibe para garantizar el bienestar de la planta.
+       Además se debe tener en cuenta que el problema radica en la necesidad crítica de los agricultores de contar con herramientas tecnológicas accesibles para medir de manera precisa la humedad del suelo y la intensidad de la luz solar son factores fundamentales para el cultivo exitoso. La falta de esta información conduce a cultivos de baja calidad y pérdidas económicas significativas, por esto es importante estar informados sobre los beneficios que puede tener contar con herramientas tecnológicas para incluir un aumento en la calidad  y el rendimiento de los cultivos .
+       
+       VENTAJAS DE NUESTRO PRODUCTO:
+       
+       1. Optimización del riego: Al medir la humedad del suelo, el dispositivo ayudará a determinar la cantidad exacta de agua necesaria para el cultivo, evitando el desperdicio y asegurando un riego adecuado.
+       
+       2. Mejor control del cultivo: El sensor de luz permitirá monitorear la cantidad de luz solar que recibe el cultivo. Esto es crucial, ya que diferentes plantas tienen requisitos específicos de luz y el dispositivo ayudará a asegurar que se cumplan, optimizando así su crecimiento y desarrollo.
+       
+       3. Eficiencia en el uso de recursos: Al tener información precisa sobre la humedad del suelo y la luz solar, se podrán tomar decisiones más informadas sobre el uso de agua y energía. Esto conducirá a un uso más eficiente de estos recursos, reduciendo costos y minimizando el impacto ambiental.
+       
+       4. Cultivo saludable: Al mantener un equilibrio adecuado de humedad en el suelo y asegurar una exposición óptima a la luz solar, el proyecto contribuirá a un cultivo más saludable. Esto puede resultar en cosechas de mejor calidad, mayor rendimiento y menor riesgo de enfermedades o plagas.
+       `,
+        imagen:'SoilMate-Articulo.jpg'}
+
+
+export const HistoriaIntegrantes = {
+    nuemro:'5',
+    titulo:'Trayectoria ',
+    text:`Nuestro grupo está conformado por Ruby Becerra, Mariana picón, Sarit Rodríguez, Leidy Hernández y Zharick Becerra.
+     Somos estudiantes del colegio José Elías Puyana del grado 11, estamos en la modalidad de técnico en sistemas con el Sena. 
+     Para nuestro proyecto realizamos actividades como investigaciones, talleres, charlas de ideas, etc en las cuales nos surgió la idea de crear a SoilMate.
+     Para lograrlo, creamos un grupo en el que hicimos lluvia de ideas de cómo íbamos a realizar nuestro proyecto, de que iba a estar compuesto, para quienes iba dirigido y a quiénes les puede interesar, con la intención de promover facilitar e incentivar las personas al cultivo y 
+     cuidado de la tierra y cómo pueden mejorar y mantener la calidad de la tierra para promover el crecimiento de los cultivos aumentando la productividad agricola. Hemos trabajado dos años en la construcción de este dispositivo con el objetivo de impactar en la sociedad y a las 
+    personas interesadas en la agricultura. Sin embargo, estamos en busca de patrocinadores que deseen colaborarnos con la intención de innovar, progresar y perfeccionar nuestro proyecto para lograr tener un alcance más amplio en las personas interesadas en este.`
+}

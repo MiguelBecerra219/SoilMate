@@ -7,10 +7,14 @@
     max-width: 400px;
     margin: 80px;
     height: 100px;
+
 }
 
 .Contenedor-integrante .contenedor-foto{
+    width: 150px;
+    height: 100px;
     padding-right: 15px;
+    padding: 20px 0px;
 }
 
 .Contenedor-integrante .contenedor-foto-1{
@@ -73,10 +77,6 @@
     height: 200px;
 }
 
-.Contenedor-integrante .contenedor-foto .foto-integrante{
-    width: 100px;
-    height: 150px;
-}
 
 .Contenedor-integrante .contenedor-nombre-rol{
     height: 150px;
@@ -86,9 +86,14 @@
     flex-direction: column;
     padding: 12px;
     color: black;
+    margin-top: 20px;
 }
 
 .Contenedor-integrante .contenedor-nombre p{
     font-size: 80%;
     color: #2c490d;
+}
+
+.Seccion-integrantes .Historia-integrantes{
+    width: 100vw;
 }

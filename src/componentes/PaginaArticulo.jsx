@@ -1,6 +1,6 @@
 import '../css/PaginaArticulo.css'
 
-export function PaginaArticulo ( { nombre, nombreCientifico, imagen, contenido }){
+export function PaginaArticulo ( { nombre, nombreCientifico, contenido }){
     return(
         <>
             <article className="articulo">
@@ -9,7 +9,6 @@ export function PaginaArticulo ( { nombre, nombreCientifico, imagen, contenido }
                     <h2 className='nombre-cientifico-articulo'>{nombreCientifico}</h2>
                 </div>
                 <div className={'contenedor-imagen-'+nombre}> 
-                    <img src={'src/media/'+imagen} alt="" />
                 </div >
                 <section className='contenido'>
                     <p>{contenido}</p>

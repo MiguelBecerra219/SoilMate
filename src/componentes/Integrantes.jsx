@@ -1,6 +1,6 @@
 import '../css/Integrantes.css'
 
-export function Integrante ( { nombre, rol, foto, numero } ) {
+export function Integrante ( { nombre, foto, numero } ) {
 
     return (
         <article className={'integrante-'+numero}>
@@ -9,9 +9,7 @@ export function Integrante ( { nombre, rol, foto, numero } ) {
                 </div>
                 <div className="contenedor-nombre-rol">
                     <p className="nombre-integrante">{nombre}</p>
-                    <p className='rol-integrante'>{rol}</p>
                 </div>
-
             </div>
         </article>
     )

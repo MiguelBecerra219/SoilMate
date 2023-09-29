@@ -55,6 +55,20 @@
     width: 70vw;
     height: 60vh;
 }
+
+.articulo .contenedor-imagen-SoilMate{
+    background-image: url("../media/SoilMate-Articulo.jpg");
+    border-bottom: solid 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70vw;
+    height: 60vh;
+}
+
 .articulo .contenedor-imagen img{
     max-width: 50vw;
 }

@@ -16,7 +16,7 @@ export function Barra () {
         <div className='contenedor-links'>
           {/* Bloque para separar el boton */}
           <div className='contenedor-boton-header'>
-          <Link to={"/Integrantes/"} className='link-sobre-nosotros'>Sobre nosotros</Link>
+          <Link to={"/SoilMate/Integrantes/"} className='link-sobre-nosotros'>Sobre nosotros</Link>
           </div>
         </div>
       </header>

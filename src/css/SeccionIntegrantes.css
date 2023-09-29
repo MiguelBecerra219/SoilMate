@@ -1,11 +1,14 @@
+
 .Seccion-integrantes{
-    background-color: #ebe8e8;
     width: 100vw;
-    height: 100vhvh;
+    height: 100vh;
     padding: 24px;
     display: flex;
     justify-content: center;
-    background-color: #FEF5E7;
+    position: absolute;
+    top: 80px;
+    flex-wrap: wrap;
+    height: 100vh;
 }
 
 .Seccion-integrantes .Contenedor-integantes{
@@ -16,7 +19,20 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 2vh 8vw ;
 }
+
+.Seccion-integrantes .Historia-integrantes p{
+    overflow: hidden;    
+}
+
+.Seccion-integrantes .Historia-integrantes {
+    overflow: hidden;    
+    width: 100vw; 
+    padding: 2vh 8vw;
+}
+
+
 
 @media(min-width: 1000px){
     .Seccion-integrantes .Contenedor-integantes{
